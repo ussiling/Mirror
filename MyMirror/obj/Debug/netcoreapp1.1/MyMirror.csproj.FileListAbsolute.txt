@@ -1,0 +1,11 @@
+D:\OneDrive\Programmering\Projekt X\ProjectMirror\MyMirror\MyMirror\bin\Debug\netcoreapp1.1\MyMirror.deps.json
+D:\OneDrive\Programmering\Projekt X\ProjectMirror\MyMirror\MyMirror\bin\Debug\netcoreapp1.1\MyMirror.runtimeconfig.json
+D:\OneDrive\Programmering\Projekt X\ProjectMirror\MyMirror\MyMirror\bin\Debug\netcoreapp1.1\MyMirror.runtimeconfig.dev.json
+D:\OneDrive\Programmering\Projekt X\ProjectMirror\MyMirror\MyMirror\bin\Debug\netcoreapp1.1\MyMirror.dll
+D:\OneDrive\Programmering\Projekt X\ProjectMirror\MyMirror\MyMirror\bin\Debug\netcoreapp1.1\MyMirror.pdb
+D:\OneDrive\Programmering\Projekt X\ProjectMirror\MyMirror\MyMirror\obj\Debug\netcoreapp1.1\MyMirror.csprojResolveAssemblyReference.cache
+D:\OneDrive\Programmering\Projekt X\ProjectMirror\MyMirror\MyMirror\obj\Debug\netcoreapp1.1\MyMirror.csproj.CoreCompileInputs.cache
+D:\OneDrive\Programmering\Projekt X\ProjectMirror\MyMirror\MyMirror\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\OneDrive\Programmering\Projekt X\ProjectMirror\MyMirror\MyMirror\obj\Debug\netcoreapp1.1\MyMirror.AssemblyInfo.cs
+D:\OneDrive\Programmering\Projekt X\ProjectMirror\MyMirror\MyMirror\obj\Debug\netcoreapp1.1\MyMirror.dll
+D:\OneDrive\Programmering\Projekt X\ProjectMirror\MyMirror\MyMirror\obj\Debug\netcoreapp1.1\MyMirror.pdb
