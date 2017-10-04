@@ -32,7 +32,7 @@ namespace MyMirror.Controllers
         {
 
             //GO TO DATABASE
-            var weather = new WeatherItem()
+            var weather = new Weather()
             {
                 City = "Bunkeflo",
                 Weatherdesc = "Regnigt och molning under hela dagen men växande något.",
